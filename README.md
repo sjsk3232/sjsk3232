@@ -7,6 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 1311 할 일 정하기 1](https://sjsk3232.github.io/posts/BOJ-1311/)
+- [BOJ 1103 게임](https://sjsk3232.github.io/posts/BOJ-1103/)
+- [BOJ 2718 타일 채우기](https://sjsk3232.github.io/posts/BOJ-2718/)
+- [BOJ 2213 트리의 독립집합](https://sjsk3232.github.io/posts/BOJ-2213/)
+- [BOJ 1562 계단 수](https://sjsk3232.github.io/posts/BOJ-1562/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
