@@ -13,4 +13,4 @@ jobs:
 #      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://github.com/sjsk3232/sjsk3232.github.io"
+          feed_list: "https://sjsk3232.github.io/feed.xml"
