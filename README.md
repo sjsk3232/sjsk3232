@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sjsk3232@gmail.com**
 
-### Blogs posts
+### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 - [BOJ 1311 할 일 정하기 1](https://sjsk3232.github.io/posts/BOJ-1311/)
 - [BOJ 1103 게임](https://sjsk3232.github.io/posts/BOJ-1103/)
