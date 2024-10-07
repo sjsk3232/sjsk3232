@@ -7,11 +7,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 4485 녹색 옷 입은 애가 젤다지?](https://sjsk3232.github.io/posts/BOJ-4485/)
 - [BOJ 1328 고층 빌딩](https://sjsk3232.github.io/posts/BOJ-1328/)
 - [BOJ 1311 할 일 정하기 1](https://sjsk3232.github.io/posts/BOJ-1311/)
 - [BOJ 1103 게임](https://sjsk3232.github.io/posts/BOJ-1103/)
 - [BOJ 2718 타일 채우기](https://sjsk3232.github.io/posts/BOJ-2718/)
-- [BOJ 2213 트리의 독립집합](https://sjsk3232.github.io/posts/BOJ-2213/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
