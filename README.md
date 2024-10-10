@@ -7,11 +7,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 1162 도로포장](https://sjsk3232.github.io/posts/BOJ-1162/)
 - [BOJ 10473 인간 대포](https://sjsk3232.github.io/posts/BOJ-10473/)
 - [BOJ 1238 파티](https://sjsk3232.github.io/posts/BOJ-1238/)
 - [BOJ 4485 녹색 옷 입은 애가 젤다지?](https://sjsk3232.github.io/posts/BOJ-4485/)
 - [BOJ 1328 고층 빌딩](https://sjsk3232.github.io/posts/BOJ-1328/)
-- [BOJ 1311 할 일 정하기 1](https://sjsk3232.github.io/posts/BOJ-1311/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
