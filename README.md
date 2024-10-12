@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2607 비슷한 단어](https://sjsk3232.github.io/posts/BOJ-2607/)
 - [BOJ 1102 발전소](https://sjsk3232.github.io/posts/BOJ-1102/)
 - [BOJ 1162 도로포장](https://sjsk3232.github.io/posts/BOJ-1162/)
 - [BOJ 10473 인간 대포](https://sjsk3232.github.io/posts/BOJ-10473/)
 - [BOJ 1238 파티](https://sjsk3232.github.io/posts/BOJ-1238/)
-- [BOJ 4485 녹색 옷 입은 애가 젤다지?](https://sjsk3232.github.io/posts/BOJ-4485/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
