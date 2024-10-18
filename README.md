@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 12919 A와 B 2](https://sjsk3232.github.io/posts/BOJ-12919/)
 - [BOJ 15989 1, 2, 3 더하기 4](https://sjsk3232.github.io/posts/BOJ-15989/)
 - [BOJ 13549 숨바꼭질 3](https://sjsk3232.github.io/posts/BOJ-13549/)
 - [BOJ 11501 주식](https://sjsk3232.github.io/posts/BOJ-11501/)
 - [BOJ 20006 랭킹전 대기열](https://sjsk3232.github.io/posts/BOJ-20006/)
-- [BOJ 3758 KCPC](https://sjsk3232.github.io/posts/BOJ-3758/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
