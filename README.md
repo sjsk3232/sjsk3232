@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 14719 빗물](https://sjsk3232.github.io/posts/BOJ-14719/)
 - [BOJ 1406 에디터](https://sjsk3232.github.io/posts/BOJ-1406/)
 - [BOJ 12919 A와 B 2](https://sjsk3232.github.io/posts/BOJ-12919/)
 - [BOJ 15989 1, 2, 3 더하기 4](https://sjsk3232.github.io/posts/BOJ-15989/)
 - [BOJ 13549 숨바꼭질 3](https://sjsk3232.github.io/posts/BOJ-13549/)
-- [BOJ 11501 주식](https://sjsk3232.github.io/posts/BOJ-11501/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
