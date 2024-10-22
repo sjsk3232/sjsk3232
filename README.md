@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 5972 택배 배송](https://sjsk3232.github.io/posts/BOJ-5972/)
 - [BOJ 20437 문자열 게임 2](https://sjsk3232.github.io/posts/BOJ-20437/)
 - [BOJ 14719 빗물](https://sjsk3232.github.io/posts/BOJ-14719/)
 - [BOJ 1406 에디터](https://sjsk3232.github.io/posts/BOJ-1406/)
 - [BOJ 12919 A와 B 2](https://sjsk3232.github.io/posts/BOJ-12919/)
-- [BOJ 15989 1, 2, 3 더하기 4](https://sjsk3232.github.io/posts/BOJ-15989/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
