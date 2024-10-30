@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2668 숫자고르기](https://sjsk3232.github.io/posts/BOJ-2668/)
 - [BOJ 1976 여행 가자](https://sjsk3232.github.io/posts/BOJ-1976/)
 - [BOJ 1253 좋다](https://sjsk3232.github.io/posts/BOJ-1253/)
 - [BOJ 2110 공유기 설치](https://sjsk3232.github.io/posts/BOJ-2110/)
 - [BOJ 1806 부분합](https://sjsk3232.github.io/posts/BOJ-1806/)
-- [BOJ 22251 빌런 호석](https://sjsk3232.github.io/posts/BOJ-22251/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
