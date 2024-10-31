@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2467 용액](https://sjsk3232.github.io/posts/BOJ-2467/)
 - [BOJ 2668 숫자고르기](https://sjsk3232.github.io/posts/BOJ-2668/)
 - [BOJ 1976 여행 가자](https://sjsk3232.github.io/posts/BOJ-1976/)
 - [BOJ 1253 좋다](https://sjsk3232.github.io/posts/BOJ-1253/)
 - [BOJ 2110 공유기 설치](https://sjsk3232.github.io/posts/BOJ-2110/)
-- [BOJ 1806 부분합](https://sjsk3232.github.io/posts/BOJ-1806/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
