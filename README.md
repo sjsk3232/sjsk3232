@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Git 커밋 메시지 작성법](https://sjsk3232.github.io/posts/git-commit/)
 - [BOJ 4179 불!](https://sjsk3232.github.io/posts/BOJ-4179/)
 - [BOJ 2467 용액](https://sjsk3232.github.io/posts/BOJ-2467/)
 - [BOJ 2668 숫자고르기](https://sjsk3232.github.io/posts/BOJ-2668/)
 - [BOJ 1976 여행 가자](https://sjsk3232.github.io/posts/BOJ-1976/)
-- [BOJ 1253 좋다](https://sjsk3232.github.io/posts/BOJ-1253/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
