@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2164 카드2](https://sjsk3232.github.io/posts/BOJ-2164/)
+- [BOJ 2512 예산](https://sjsk3232.github.io/posts/BOJ-2512/)
 - [BOJ 1027 고층 건물](https://sjsk3232.github.io/posts/BOJ-1027/)
 - [Git 커밋 메시지 작성법](https://sjsk3232.github.io/posts/git-commit/)
 - [BOJ 4179 불!](https://sjsk3232.github.io/posts/BOJ-4179/)
-- [BOJ 2467 용액](https://sjsk3232.github.io/posts/BOJ-2467/)
-- [BOJ 2668 숫자고르기](https://sjsk3232.github.io/posts/BOJ-2668/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
