@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 15683 감시](https://sjsk3232.github.io/posts/BOJ-15683/)
 - [BOJ 2179 비슷한 단어](https://sjsk3232.github.io/posts/BOJ-2179/)
 - [BOJ 2206 벽 부수고 이동하기](https://sjsk3232.github.io/posts/BOJ-2206/)
 - [BOJ 2164 카드2](https://sjsk3232.github.io/posts/BOJ-2164/)
 - [BOJ 2512 예산](https://sjsk3232.github.io/posts/BOJ-2512/)
-- [BOJ 1027 고층 건물](https://sjsk3232.github.io/posts/BOJ-1027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
