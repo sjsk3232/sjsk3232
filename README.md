@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2195 문자열 복사](https://sjsk3232.github.io/posts/BOJ-2195/)
 - [BOJ 2631 줄세우기](https://sjsk3232.github.io/posts/BOJ-2631/)
 - [BOJ 2138 전구와 스위치](https://sjsk3232.github.io/posts/BOJ-2138/)
 - [BOJ 15683 감시](https://sjsk3232.github.io/posts/BOJ-15683/)
 - [BOJ 2179 비슷한 단어](https://sjsk3232.github.io/posts/BOJ-2179/)
-- [BOJ 2206 벽 부수고 이동하기](https://sjsk3232.github.io/posts/BOJ-2206/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
