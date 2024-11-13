@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 1197 최소 스패닝 트리](https://sjsk3232.github.io/posts/BOJ-1197/)
 - [BOJ 14658 하늘에서 별똥별이 빗발친다](https://sjsk3232.github.io/posts/BOJ-14658/)
 - [BOJ 13144 List of Unique Numbers](https://sjsk3232.github.io/posts/BOJ-13144/)
 - [BOJ 2195 문자열 복사](https://sjsk3232.github.io/posts/BOJ-2195/)
 - [BOJ 2631 줄세우기](https://sjsk3232.github.io/posts/BOJ-2631/)
-- [BOJ 2138 전구와 스위치](https://sjsk3232.github.io/posts/BOJ-2138/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
