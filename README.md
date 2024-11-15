@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2887 행성 터널](https://sjsk3232.github.io/posts/BOJ-2887/)
 - [BOJ 1647 도시 분할 계획](https://sjsk3232.github.io/posts/BOJ-1647/)
 - [BOJ 1197 최소 스패닝 트리](https://sjsk3232.github.io/posts/BOJ-1197/)
 - [BOJ 14658 하늘에서 별똥별이 빗발친다](https://sjsk3232.github.io/posts/BOJ-14658/)
 - [BOJ 13144 List of Unique Numbers](https://sjsk3232.github.io/posts/BOJ-13144/)
-- [BOJ 2195 문자열 복사](https://sjsk3232.github.io/posts/BOJ-2195/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
