@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 1644 소수의 연속합](https://sjsk3232.github.io/posts/BOJ-1644/)
 - [BOJ 15681 트리와 쿼리](https://sjsk3232.github.io/posts/BOJ-15681/)
 - [BOJ 20040 사이클 게임](https://sjsk3232.github.io/posts/BOJ-20040/)
 - [BOJ 2887 행성 터널](https://sjsk3232.github.io/posts/BOJ-2887/)
 - [BOJ 1647 도시 분할 계획](https://sjsk3232.github.io/posts/BOJ-1647/)
-- [BOJ 1197 최소 스패닝 트리](https://sjsk3232.github.io/posts/BOJ-1197/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
