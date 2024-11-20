@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 27172 수 나누기 게임](https://sjsk3232.github.io/posts/BOJ-27172/)
 - [BOJ 1005 ACM Craft](https://sjsk3232.github.io/posts/BOJ-1005/)
 - [BOJ 1644 소수의 연속합](https://sjsk3232.github.io/posts/BOJ-1644/)
 - [BOJ 15681 트리와 쿼리](https://sjsk3232.github.io/posts/BOJ-15681/)
 - [BOJ 20040 사이클 게임](https://sjsk3232.github.io/posts/BOJ-20040/)
-- [BOJ 2887 행성 터널](https://sjsk3232.github.io/posts/BOJ-2887/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
