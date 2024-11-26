@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 15686 치킨 배달](https://sjsk3232.github.io/posts/BOJ-15686/)
 - [BOJ 14888 연산자 끼워넣기](https://sjsk3232.github.io/posts/BOJ-14888/)
 - [BOJ 14501 퇴사](https://sjsk3232.github.io/posts/BOJ-14501/)
 - [BOJ 2473 세 용액](https://sjsk3232.github.io/posts/BOJ-2473/)
 - [BOJ 27172 수 나누기 게임](https://sjsk3232.github.io/posts/BOJ-27172/)
-- [BOJ 1005 ACM Craft](https://sjsk3232.github.io/posts/BOJ-1005/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
