@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 1092 배](https://sjsk3232.github.io/posts/BOJ-1092/)
 - [BOJ 12904 A와 B](https://sjsk3232.github.io/posts/BOJ-12904/)
 - [BOJ 2212 센서](https://sjsk3232.github.io/posts/BOJ-2212/)
 - [BOJ 2170 선 긋기](https://sjsk3232.github.io/posts/BOJ-2170/)
 - [BOJ 14248 점프 점프](https://sjsk3232.github.io/posts/BOJ-14248/)
-- [BOJ 25045 비즈마켓](https://sjsk3232.github.io/posts/BOJ-25045/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
