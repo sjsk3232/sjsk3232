@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2146 다리 만들기](https://sjsk3232.github.io/posts/BOJ-2146/)
 - [BOJ 1707 이분 그래프](https://sjsk3232.github.io/posts/BOJ-1707/)
 - [BOJ 1052 물병](https://sjsk3232.github.io/posts/BOJ-1052/)
 - [BOJ 1041 주사위](https://sjsk3232.github.io/posts/BOJ-1041/)
 - [BOJ 1092 배](https://sjsk3232.github.io/posts/BOJ-1092/)
-- [BOJ 12904 A와 B](https://sjsk3232.github.io/posts/BOJ-12904/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
