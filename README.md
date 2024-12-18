@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2636 치즈](https://sjsk3232.github.io/posts/BOJ-2636/)
 - [BOJ 2757 엑셀](https://sjsk3232.github.io/posts/BOJ-2757/)
 - [BOJ 1755 숫자놀이](https://sjsk3232.github.io/posts/BOJ-1755/)
 - [BOJ 28126 Space-A](https://sjsk3232.github.io/posts/BOJ-28126/)
 - [BOJ 2146 다리 만들기](https://sjsk3232.github.io/posts/BOJ-2146/)
-- [BOJ 1707 이분 그래프](https://sjsk3232.github.io/posts/BOJ-1707/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
