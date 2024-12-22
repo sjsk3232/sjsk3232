@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 20055 컨베이어 벨트 위의 로봇](https://sjsk3232.github.io/posts/BOJ-20055/)
+- [BOJ 9461 파도반 수열](https://sjsk3232.github.io/posts/BOJ-9461/)
 - [BOJ 7576 토마토](https://sjsk3232.github.io/posts/BOJ-7576/)
 - [BOJ 2636 치즈](https://sjsk3232.github.io/posts/BOJ-2636/)
 - [BOJ 2757 엑셀](https://sjsk3232.github.io/posts/BOJ-2757/)
-- [BOJ 1755 숫자놀이](https://sjsk3232.github.io/posts/BOJ-1755/)
-- [BOJ 28126 Space-A](https://sjsk3232.github.io/posts/BOJ-28126/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
