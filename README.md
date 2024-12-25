@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 5052 전화번호 목록](https://sjsk3232.github.io/posts/BOJ-5052/)
 - [BOJ 14929 귀찮아 &lpar;SIB&rpar;](https://sjsk3232.github.io/posts/BOJ-14929/)
 - [BOJ 10986 나머지 합](https://sjsk3232.github.io/posts/BOJ-10986/)
 - [BOJ 2225 합분해](https://sjsk3232.github.io/posts/BOJ-2225/)
 - [BOJ 20055 컨베이어 벨트 위의 로봇](https://sjsk3232.github.io/posts/BOJ-20055/)
-- [BOJ 9461 파도반 수열](https://sjsk3232.github.io/posts/BOJ-9461/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
