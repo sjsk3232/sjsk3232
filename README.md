@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2141 우체국](https://sjsk3232.github.io/posts/BOJ-2141/)
 - [BOJ 7453 합이 0인 네 정수](https://sjsk3232.github.io/posts/BOJ-7453/)
 - [BOJ 5052 전화번호 목록](https://sjsk3232.github.io/posts/BOJ-5052/)
 - [BOJ 14929 귀찮아 &lpar;SIB&rpar;](https://sjsk3232.github.io/posts/BOJ-14929/)
 - [BOJ 10986 나머지 합](https://sjsk3232.github.io/posts/BOJ-10986/)
-- [BOJ 2225 합분해](https://sjsk3232.github.io/posts/BOJ-2225/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
