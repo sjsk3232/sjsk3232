@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 13334 철로](https://sjsk3232.github.io/posts/BOJ-13334/)
+- [BOJ 1461 도서관](https://sjsk3232.github.io/posts/BOJ-1461/)
 - [BOJ 13164 행복 유치원](https://sjsk3232.github.io/posts/BOJ-13164/)
 - [BOJ 1911 흙길 보수하기](https://sjsk3232.github.io/posts/BOJ-1911/)
 - [BOJ 17182 우주 탐사선](https://sjsk3232.github.io/posts/BOJ-17182/)
-- [BOJ 2141 우체국](https://sjsk3232.github.io/posts/BOJ-2141/)
-- [BOJ 7453 합이 0인 네 정수](https://sjsk3232.github.io/posts/BOJ-7453/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
