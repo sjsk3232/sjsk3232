@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 12100 2048 &lpar;Easy&rpar;](https://sjsk3232.github.io/posts/BOJ-12100/)
 - [BOJ 1062 가르침](https://sjsk3232.github.io/posts/BOJ-1062/)
 - [BOJ 1655 가운데를 말해요](https://sjsk3232.github.io/posts/BOJ-1655/)
 - [BOJ 13334 철로](https://sjsk3232.github.io/posts/BOJ-13334/)
 - [BOJ 1461 도서관](https://sjsk3232.github.io/posts/BOJ-1461/)
-- [BOJ 13164 행복 유치원](https://sjsk3232.github.io/posts/BOJ-13164/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
