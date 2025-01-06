@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 17471 게리맨더링](https://sjsk3232.github.io/posts/BOJ-17471/)
 - [BOJ 16637 괄호 추가하기](https://sjsk3232.github.io/posts/BOJ-16637/)
 - [BOJ 12100 2048 &lpar;Easy&rpar;](https://sjsk3232.github.io/posts/BOJ-12100/)
 - [BOJ 1062 가르침](https://sjsk3232.github.io/posts/BOJ-1062/)
 - [BOJ 1655 가운데를 말해요](https://sjsk3232.github.io/posts/BOJ-1655/)
-- [BOJ 13334 철로](https://sjsk3232.github.io/posts/BOJ-13334/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
