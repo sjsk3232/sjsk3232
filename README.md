@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 14500 테트로미노](https://sjsk3232.github.io/posts/BOJ-14500/)
 - [BOJ 1038 감소하는 수](https://sjsk3232.github.io/posts/BOJ-1038/)
 - [BOJ 17135 캐슬 디펜스](https://sjsk3232.github.io/posts/BOJ-17135/)
 - [BOJ 17471 게리맨더링](https://sjsk3232.github.io/posts/BOJ-17471/)
 - [BOJ 16637 괄호 추가하기](https://sjsk3232.github.io/posts/BOJ-16637/)
-- [BOJ 12100 2048 &lpar;Easy&rpar;](https://sjsk3232.github.io/posts/BOJ-12100/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
