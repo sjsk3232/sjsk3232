@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 17609 회문](https://sjsk3232.github.io/posts/BOJ-17609/)
+- [BOJ 5430 AC](https://sjsk3232.github.io/posts/BOJ-5430/)
 - [BOJ 5582 공통 부분 문자열](https://sjsk3232.github.io/posts/BOJ-5582/)
 - [숫자 데이터의 표현](https://sjsk3232.github.io/posts/ca-data/)
 - [BOJ 1411 비슷한 단어](https://sjsk3232.github.io/posts/BOJ-1411/)
-- [BOJ 14500 테트로미노](https://sjsk3232.github.io/posts/BOJ-14500/)
-- [BOJ 1038 감소하는 수](https://sjsk3232.github.io/posts/BOJ-1038/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
