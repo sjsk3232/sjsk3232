@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2608 로마 숫자](https://sjsk3232.github.io/posts/BOJ-2608/)
 - [BOJ 2800 괄호 제거](https://sjsk3232.github.io/posts/BOJ-2800/)
 - [문자 데이터의 표현](https://sjsk3232.github.io/posts/ca-character-data/)
 - [BOJ 17609 회문](https://sjsk3232.github.io/posts/BOJ-17609/)
 - [BOJ 5430 AC](https://sjsk3232.github.io/posts/BOJ-5430/)
-- [BOJ 5582 공통 부분 문자열](https://sjsk3232.github.io/posts/BOJ-5582/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
