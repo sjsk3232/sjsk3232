@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 15591 MooTube &lpar;Silver&rpar;](https://sjsk3232.github.io/posts/BOJ-15591/)
 - [BOJ 1414 불우이웃돕기](https://sjsk3232.github.io/posts/BOJ-1414/)
 - [명령어](https://sjsk3232.github.io/posts/ca-command/)
 - [컴파일과 인터프리트](https://sjsk3232.github.io/posts/ca-compile-interpret/)
 - [BOJ 2608 로마 숫자](https://sjsk3232.github.io/posts/BOJ-2608/)
-- [BOJ 2800 괄호 제거](https://sjsk3232.github.io/posts/BOJ-2800/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
