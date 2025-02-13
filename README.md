@@ -8,11 +8,11 @@
 ---
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 11052 카드 구매하기](https://sjsk3232.github.io/posts/BOJ-11052/)
 - [BOJ 17281 ⚾](https://sjsk3232.github.io/posts/BOJ-17281/)
 - [BOJ 1943 동전 분배](https://sjsk3232.github.io/posts/BOJ-1943/)
 - [BOJ 2638 치즈](https://sjsk3232.github.io/posts/BOJ-2638/)
 - [BOJ 2234 성곽](https://sjsk3232.github.io/posts/BOJ-2234/)
-- [BOJ 10653 마라톤 2](https://sjsk3232.github.io/posts/BOJ-10653/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
