@@ -19,11 +19,11 @@
       <th>Title</th>
       <th>Categories</th>
     </tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>Fri Feb 14 2025 9:05 AM</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1915/'>BOJ 1915 가장 큰 정사각형</a></td><td></td></tr>
-<tr><td>Thu Feb 13 2025 6:42 AM</td><td><a href='https://sjsk3232.github.io/posts/BOJ-11052/'>BOJ 11052 카드 구매하기</a></td><td></td></tr>
-<tr><td>Fri Jan 24 2025 1:20 PM</td><td><a href='https://sjsk3232.github.io/posts/BOJ-17281/'>BOJ 17281 ⚾</a></td><td></td></tr>
-<tr><td>Thu Jan 23 2025 8:15 AM</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1943/'>BOJ 1943 동전 분배</a></td><td></td></tr>
-<tr><td>Wed Jan 22 2025 8:15 AM</td><td><a href='https://sjsk3232.github.io/posts/BOJ-2638/'>BOJ 2638 치즈</a></td><td></td></tr>
+  <!-- BLOG-POST-LIST:START --><tr><td>2025.02.14.(Fri)</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1915/'>BOJ 1915 가장 큰 정사각형</a></td><td></td></tr>
+<tr><td>2025.02.13.(Thu)</td><td><a href='https://sjsk3232.github.io/posts/BOJ-11052/'>BOJ 11052 카드 구매하기</a></td><td></td></tr>
+<tr><td>2025.01.24.(Fri)</td><td><a href='https://sjsk3232.github.io/posts/BOJ-17281/'>BOJ 17281 ⚾</a></td><td></td></tr>
+<tr><td>2025.01.23.(Thu)</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1943/'>BOJ 1943 동전 분배</a></td><td></td></tr>
+<tr><td>2025.01.22.(Wed)</td><td><a href='https://sjsk3232.github.io/posts/BOJ-2638/'>BOJ 2638 치즈</a></td><td></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </table>
   <br>
