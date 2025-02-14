@@ -15,3 +15,5 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://sjsk3232.github.io/feed.xml"
           template: "<tr><td>$date</td><td><a href='$url'>$title</a></td><td>$categories</td></tr>$newline"
+          categories_template: '<category term="$category"/>'
+          date_format: "yyyy.mm.dd.(ddd)"
