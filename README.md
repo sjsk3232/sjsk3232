@@ -10,18 +10,21 @@
 
 ---
 
-<h3 align=center>📑 Recent Blogs Posts</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [BOJ 1915 가장 큰 정사각형](https://sjsk3232.github.io/posts/BOJ-1915/)
-- [BOJ 11052 카드 구매하기](https://sjsk3232.github.io/posts/BOJ-11052/)
-- [BOJ 17281 ⚾](https://sjsk3232.github.io/posts/BOJ-17281/)
-- [BOJ 1943 동전 분배](https://sjsk3232.github.io/posts/BOJ-1943/)
-- [BOJ 2638 치즈](https://sjsk3232.github.io/posts/BOJ-2638/)
-<!-- BLOG-POST-LIST:END -->
-
 <div align='center'>
-📝 블로그 - https://sjsk3232.github.io
+  <h3>📑 Recent Blogs Posts</h3>
+
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>Title</th>
+      <th>Categories</th>
+    </tr>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+  </table>
+  <br>
+  
+  📝 블로그 - https://sjsk3232.github.io
 </div>
 
 ---
