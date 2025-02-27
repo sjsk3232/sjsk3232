@@ -18,11 +18,11 @@
       <th>Date</th>
       <th>Title</th>
     </tr>
-<!-- BLOG-POST-LIST:START --><tr><td>2025/02/25</td><td><a href='https://sjsk3232.github.io/posts/BOJ-18427/'>BOJ 18427 함께 블록 쌓기</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2025/02/27</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1135/'>BOJ 1135 뉴스 전하기</a></td></tr>
+<tr><td>2025/02/25</td><td><a href='https://sjsk3232.github.io/posts/BOJ-18427/'>BOJ 18427 함께 블록 쌓기</a></td></tr>
 <tr><td>2025/02/18</td><td><a href='https://sjsk3232.github.io/posts/BOJ-15486/'>BOJ 15486 퇴사 2</a></td></tr>
 <tr><td>2025/02/17</td><td><a href='https://sjsk3232.github.io/posts/BOJ-11657/'>BOJ 11657 타임머신</a></td></tr>
 <tr><td>2025/02/14</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1915/'>BOJ 1915 가장 큰 정사각형</a></td></tr>
-<tr><td>2025/02/13</td><td><a href='https://sjsk3232.github.io/posts/BOJ-11052/'>BOJ 11052 카드 구매하기</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </table>
   <br>
