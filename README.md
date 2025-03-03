@@ -18,11 +18,11 @@
       <th>Date</th>
       <th>Title</th>
     </tr>
-<!-- BLOG-POST-LIST:START --><tr><td>2025/02/28</td><td><a href='https://sjsk3232.github.io/posts/BOJ-2632/'>BOJ 2632 피자판매</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2025/03/03</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1765/'>BOJ 1765 닭싸움 팀 정하기</a></td></tr>
+<tr><td>2025/02/28</td><td><a href='https://sjsk3232.github.io/posts/BOJ-2632/'>BOJ 2632 피자판매</a></td></tr>
 <tr><td>2025/02/27</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1135/'>BOJ 1135 뉴스 전하기</a></td></tr>
 <tr><td>2025/02/25</td><td><a href='https://sjsk3232.github.io/posts/BOJ-18427/'>BOJ 18427 함께 블록 쌓기</a></td></tr>
 <tr><td>2025/02/18</td><td><a href='https://sjsk3232.github.io/posts/BOJ-15486/'>BOJ 15486 퇴사 2</a></td></tr>
-<tr><td>2025/02/17</td><td><a href='https://sjsk3232.github.io/posts/BOJ-11657/'>BOJ 11657 타임머신</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </table>
   <br>
