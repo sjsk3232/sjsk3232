@@ -18,11 +18,11 @@
       <th>Date</th>
       <th>Title</th>
     </tr>
-<!-- BLOG-POST-LIST:START --><tr><td>2025/03/05</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1189/'>BOJ 1189 컴백홈</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2025/03/06</td><td><a href='https://sjsk3232.github.io/posts/BOJ-17086/'>BOJ 17086 아기 상어 2</a></td></tr>
+<tr><td>2025/03/05</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1189/'>BOJ 1189 컴백홈</a></td></tr>
 <tr><td>2025/03/05</td><td><a href='https://sjsk3232.github.io/posts/jdk/'>JDK, JRE, JVM이란?</a></td></tr>
 <tr><td>2025/03/04</td><td><a href='https://sjsk3232.github.io/posts/BOJ-13335/'>BOJ 13335 트럭</a></td></tr>
 <tr><td>2025/03/04</td><td><a href='https://sjsk3232.github.io/posts/git-basics/'>Git의 기본 개념</a></td></tr>
-<tr><td>2025/03/03</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1765/'>BOJ 1765 닭싸움 팀 정하기</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </table>
   <br>
