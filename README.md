@@ -18,11 +18,11 @@
       <th>Date</th>
       <th>Title</th>
     </tr>
-<!-- BLOG-POST-LIST:START --><tr><td>2025/03/11</td><td><a href='https://sjsk3232.github.io/posts/reflection/'>자바의 Reflection과 Annotation</a></td></tr>
-<tr><td>2025/03/11</td><td><a href='https://sjsk3232.github.io/posts/inner-class/'>내부 클래스란?</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2025/03/19</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1446/'>BOJ 1446 지름길</a></td></tr>
+<tr><td>2025/03/18</td><td><a href='https://sjsk3232.github.io/posts/generics/'>제네릭 &lpar;Generics&rpar; 이란?</a></td></tr>
+<tr><td>2025/03/13</td><td><a href='https://sjsk3232.github.io/posts/inner-class/'>내부 클래스 &lpar;Inner Class&rpar;란?</a></td></tr>
+<tr><td>2025/03/11</td><td><a href='https://sjsk3232.github.io/posts/reflection/'>자바의 Reflection과 Annotation</a></td></tr>
 <tr><td>2025/03/11</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1935/'>BOJ 1935 후위 표기식2</a></td></tr>
-<tr><td>2025/03/06</td><td><a href='https://sjsk3232.github.io/posts/oop/'>자바와 객체 지향 프로그래밍</a></td></tr>
-<tr><td>2025/03/06</td><td><a href='https://sjsk3232.github.io/posts/abstract-interface/'>추상 클래스와 인터페이스</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </table>
   <br>
