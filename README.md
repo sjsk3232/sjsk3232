@@ -18,11 +18,11 @@
       <th>Date</th>
       <th>Title</th>
     </tr>
-<!-- BLOG-POST-LIST:START --><tr><td>2025/03/20</td><td><a href='https://sjsk3232.github.io/posts/BOJ-27375/'>BOJ 27375 금공강 사수</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2025/03/24</td><td><a href='https://sjsk3232.github.io/posts/lambda/'>람다식 &lpar;Lambda Expression&rpar;</a></td></tr>
+<tr><td>2025/03/20</td><td><a href='https://sjsk3232.github.io/posts/BOJ-27375/'>BOJ 27375 금공강 사수</a></td></tr>
 <tr><td>2025/03/19</td><td><a href='https://sjsk3232.github.io/posts/BOJ-1446/'>BOJ 1446 지름길</a></td></tr>
 <tr><td>2025/03/18</td><td><a href='https://sjsk3232.github.io/posts/generics/'>제네릭 &lpar;Generics&rpar; 이란?</a></td></tr>
 <tr><td>2025/03/13</td><td><a href='https://sjsk3232.github.io/posts/inner-class/'>내부 클래스 &lpar;Inner Class&rpar;란?</a></td></tr>
-<tr><td>2025/03/11</td><td><a href='https://sjsk3232.github.io/posts/reflection/'>자바의 Reflection과 Annotation</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </table>
   <br>
