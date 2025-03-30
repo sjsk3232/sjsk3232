@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3&height=200&section=header&text=About%20Me&desc=Hi!%20I'm%20Yesung%20Lim&animation=twinkling&descAlignY=80)
 
 <div align='center'>
-성장하는 개발자가 되기 위해 꾸준히 노력하는 임예성입니다.
+성장하는 개발자가 되기 위해 꾸준히 노력하는 중 입니다!
 
-최종 목표는 풀스택 개발자이고, 현재는 백엔드 개발자가 되기 위해 공부하고 있습니다.
+알고리즘, 웹 개발, DevOps를 중점적으로 공부 중입니다.
 
 📧 이메일 - sjsk3232@gmail.com
 </div>
