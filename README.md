@@ -18,7 +18,7 @@
       <th>Date</th>
       <th>Title</th>
     </tr>
-<!-- BLOG-POST-LIST:START --><tr><td>2025/03/28</td><td><a href='https://sjsk3232.github.io/posts/incomplete-test/'>미완성 문서</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2025/04/04</td><td><a href='https://sjsk3232.github.io/posts/ioc-di/'>IoC와 DI</a></td></tr>
 <tr><td>2025/03/26</td><td><a href='https://sjsk3232.github.io/posts/web-was/'>Web Server와 Servlet, 그리고 WAS</a></td></tr>
 <tr><td>2025/03/24</td><td><a href='https://sjsk3232.github.io/posts/lambda/'>람다식 &lpar;Lambda Expression&rpar;</a></td></tr>
 <tr><td>2025/03/20</td><td><a href='https://sjsk3232.github.io/posts/BOJ-27375/'>BOJ 27375 금공강 사수</a></td></tr>
