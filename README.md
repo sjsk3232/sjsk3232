@@ -18,11 +18,11 @@
       <th>Date</th>
       <th>Title</th>
     </tr>
-<!-- BLOG-POST-LIST:START --><tr><td>2025/04/08</td><td><a href='https://sjsk3232.github.io/posts/jdbc/'>JDBC란?</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2025/04/09</td><td><a href='https://sjsk3232.github.io/posts/connection-pool/'>커넥션풀과 데이터소스</a></td></tr>
+<tr><td>2025/04/08</td><td><a href='https://sjsk3232.github.io/posts/jdbc/'>JDBC란?</a></td></tr>
 <tr><td>2025/04/06</td><td><a href='https://sjsk3232.github.io/posts/spring-container/'>스프링 컨테이너와 빈</a></td></tr>
 <tr><td>2025/04/04</td><td><a href='https://sjsk3232.github.io/posts/ioc-di/'>IoC와 DI</a></td></tr>
 <tr><td>2025/03/26</td><td><a href='https://sjsk3232.github.io/posts/web-was/'>Web Server와 Servlet, 그리고 WAS</a></td></tr>
-<tr><td>2025/03/24</td><td><a href='https://sjsk3232.github.io/posts/lambda/'>람다식 &lpar;Lambda Expression&rpar;</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </table>
   <br>
