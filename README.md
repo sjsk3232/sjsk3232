@@ -18,11 +18,11 @@
       <th>Date</th>
       <th>Title</th>
     </tr>
-<!-- BLOG-POST-LIST:START --><tr><td>2025/04/11</td><td><a href='https://sjsk3232.github.io/posts/transaction/'>트랜잭션과 트랜잭션 추상화</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2025/05/28</td><td><a href='https://sjsk3232.github.io/posts/spring-bean/'>스프링 빈의 생명주기</a></td></tr>
+<tr><td>2025/04/11</td><td><a href='https://sjsk3232.github.io/posts/transaction/'>트랜잭션과 트랜잭션 추상화</a></td></tr>
 <tr><td>2025/04/09</td><td><a href='https://sjsk3232.github.io/posts/connection-pool/'>커넥션풀과 DataSource</a></td></tr>
 <tr><td>2025/04/08</td><td><a href='https://sjsk3232.github.io/posts/jdbc/'>JDBC란?</a></td></tr>
 <tr><td>2025/04/06</td><td><a href='https://sjsk3232.github.io/posts/spring-container/'>스프링 컨테이너와 빈</a></td></tr>
-<tr><td>2025/04/04</td><td><a href='https://sjsk3232.github.io/posts/ioc-di/'>IoC와 DI</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </table>
   <br>
